@@ -1,0 +1,4 @@
+{
+  remoteAddress = "PHYSICAL-ADDRESS-OF-REMOTE-MODEM",
+  port = 82,
+}
