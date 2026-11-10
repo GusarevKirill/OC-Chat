@@ -18,7 +18,7 @@ local GuiApp = GUI.application()
 local remoteAddress = config:get("remoteAddress")
 local port = config:get("port")
 local BG = 0x2D2D2D
-local titleText = "STP Chat v0.1.0"
+local titleText = "STP Chat v0.2.0"
 --------------------------------
 local listenerId
 local logger = logging.getLogger("chat.log")
